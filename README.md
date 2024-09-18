@@ -4,9 +4,9 @@
 
 
 I am a highly motivated individual eager to learn and improve my skills in the field of IT. With experience in programming and web development, I am excited to take on new challenges and strive to make a significant impact in my work.
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9tcjYxYm52eWlsd2Y1a2htMHJlN3hpcHJkYjQxZHZ4Y2t5MGJzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FibGpqcjlveG0xbW5obWR3dGxkNWZ2Y3NlYm42MzB0aGE3b2RvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif"/>
+
 </div>
 
 ## 🎓 Experience & Achievements
