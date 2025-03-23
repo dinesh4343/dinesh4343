@@ -7,7 +7,7 @@ I am a highly motivated individual eager to learn and improve my skills in the f
 
 
 
-![GitHub commit activity](https://github-readme-activity-graph.vercel.app/graph?username=dinesh4343&theme=github)
+
 
 ## 🎓 Experience & Achievements
 
