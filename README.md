@@ -25,7 +25,7 @@ I am a highly motivated individual eager to learn and improve my skills in **pro
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh4343&theme=blueberry" alt="GitHub Streak Stats" />
 
-![GitHub Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=dinesh4343&theme=blueberry&area=true&color=00A8E8)
+
 
 </div>
 
@@ -65,7 +65,7 @@ I am a highly motivated individual eager to learn and improve my skills in **pro
 ---
 
 ## 📫 Connect with Me  
-📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
+📧 **Email**: [your-email@example.com](mailto:your-dineshpandian008@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
 🌐 **Portfolio**: [your-portfolio-link](https://your-portfolio.com)  
 
