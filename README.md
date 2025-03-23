@@ -4,10 +4,7 @@
 
 
 I am a highly motivated individual eager to learn and improve my skills in the field of IT. With experience in programming and web development, I am excited to take on new challenges and strive to make a significant impact in my work.
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9tcjYxYm52eWlsd2Y1a2htMHJlN3hpcHJkYjQxZHZ4Y2t5MGJzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-</div>
 
 ## 🎓 Experience & Achievements
 
@@ -24,7 +21,7 @@ I am a highly motivated individual eager to learn and improve my skills in the f
 - **Executive Treasurer**: Organized the National Level Technical Fest **Infyra23** at Sairam Institute of Technology in 2023.
 
 ## 🎓 Certifications
-- PEGA Certified System Architect - PEGA Academy
+- PEGA Certified Senior System Architect - PEGA Academy
 - Introduction to Git and GitHub - COURSERA
 - Database Management System - NPTEL
 - Introduction to Java Programming - NPTEL
