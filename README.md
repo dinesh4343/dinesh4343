@@ -6,6 +6,9 @@
 I am a highly motivated individual eager to learn and improve my skills in the field of IT. With experience in programming and web development, I am excited to take on new challenges and strive to make a significant impact in my work.
 
 
+
+![GitHub commit activity](https://github-readme-activity-graph.vercel.app/graph?username=dinesh4343&theme=github)
+
 ## 🎓 Experience & Achievements
 
 ### 🌐 Project: TICKET ZONE
