@@ -5,7 +5,11 @@
 
 I am a highly motivated individual eager to learn and improve my skills in the field of IT. With experience in programming and web development, I am excited to take on new challenges and strive to make a significant impact in my work.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh4343&show_icons=true&locale=en&layout=compact" alt="dinesh4343" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh4343&show_icons=true&locale=en" alt="dinesh4343" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh4343&" alt="dinesh4343" /></p>
 
 
 
