@@ -5,11 +5,31 @@
 
 I am a highly motivated individual eager to learn and improve my skills in the field of IT. With experience in programming and web development, I am excited to take on new challenges and strive to make a significant impact in my work.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh4343&show_icons=true&locale=en&layout=compact" alt="dinesh4343" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh4343&show_icons=true&locale=en" alt="dinesh4343" /></p>
+  <h2>📊 GitHub Stats & Activity</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh4343&" alt="dinesh4343" /></p>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh4343&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=dinesh4343&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh4343&theme=tokyonight" alt="GitHub Streak Stats" />
+
+  <br/><br/>
+
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dinesh4343&theme=tokyonight&area=true)
+
+</div>
+
 
 
 
