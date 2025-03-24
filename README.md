@@ -65,7 +65,7 @@ I am a highly motivated individual eager to learn and improve my skills in **pro
 ---
 
 ## 📫 Connect with Me  
-📧 **Email**: [your-email@example.com](mailto:your-dineshpandian008@gmail.com)  
+📧 **Email**: [dineshpandian008@gmail.com](mailto:your-dineshpandian008@gmail.com)  
 
 
 ---
