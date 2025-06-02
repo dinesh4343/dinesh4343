@@ -1,4 +1,4 @@
-# 👋 Welcome to My Profile!  
+# 👋 Welcome to My Profile!!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&width=550&lines=Aspiring+Software+Engineer;Passionate+about+Web+Development;Always+Learning+New+Things!;Open+to+Collaboration+%F0%9F%91%8D" alt="Typing SVG" />
