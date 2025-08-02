@@ -27,7 +27,6 @@ I am a highly motivated individual eager to learn and improve my skills in **pro
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dinesh4343&theme=blueberry" alt="GitHub Streak" /></a>
 
 
 </div>
