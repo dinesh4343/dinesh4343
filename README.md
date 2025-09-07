@@ -23,13 +23,7 @@ I am a highly motivated individual eager to learn and improve my skills in **pro
   </tr>
 </table>
 
-
-
-
-
-
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh4343&theme=blueberry" alt="GitHub Streak" />
 
 </div>
 
@@ -46,34 +40,33 @@ I am a highly motivated individual eager to learn and improve my skills in **pro
 
 ## 🛠️ Technologies & Skills  
 
-### **Programming & Development** 🖥️  
-- **Languages & Backend**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+<div align="center">
 
-- **Web Development**  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-  ![HTML](https://img.shields.io/badge/HTML5-1572B6?style=flat&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/CSS3-2965F1?style=flat&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+| **Programming Languages** | **Web Development** | **Backend & Database** | **Tools & Platforms** |
+|----------------------------|----------------------|-------------------------|------------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-1572B6?style=flat&logo=html5&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-2965F1?style=flat&logo=css3&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) | ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
+| | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![PEGA](https://img.shields.io/badge/PEGA-0D96F6?style=flat&logoColor=white) | ![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white) |
 
-- **Software & Tools**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-  ![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)  
-  ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+</div>
+
+---
+
+## 🌱 Currently Learning  
+- Advanced React (Hooks, Context, Next.js)  
+- Backend with Express.js & MongoDB  
+- Cloud Deployment (AWS / Vercel / Netlify)  
 
 ---
 
 ## 📫 Connect with Me  
-📧 **Email**: [dineshpandian008@gmail.com](mailto:your-dineshpandian008@gmail.com)  
-📞 **Mobile Number** : 8531064585
 
+[![Email](https://img.shields.io/badge/Email-dineshpandian008%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:dineshpandian008@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)  
 
 ---
 
 ### 🚀 Thank you for visiting my profile!  
-I am always open to **new opportunities** and **collaborations**. Feel free to reach out if you’d like to connect! 😊  
+I am always open to **new opportunities** and **collaborations**. Let’s connect and build something amazing! 😊  
