@@ -14,12 +14,7 @@ I am a highly motivated individual eager to learn and improve my skills in **pro
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh4343&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dinesh4343&show_icons=true&locale=en&theme=blueberry" alt="GitHub Stats" />
-    </td>
+
   </tr>
 </table>
 
